@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 // Function to set a cookie
 function setCookie(name, value, days) {
   const expires = new Date();
